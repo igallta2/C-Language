@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712039001 source:d:\k\数据结构\no\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
